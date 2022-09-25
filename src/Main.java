@@ -11,7 +11,7 @@ public class Main {
         boolean newBoolean = (firstRemainder == 0.00d) ? true : false;
         System.out.println("New Boolean = " + newBoolean);
         if (newBoolean = false) {
-            System.out.println("got some remainder!");
+            System.out.println("Got some remainder");
         }
     }
 }
